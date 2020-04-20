@@ -20,37 +20,24 @@ Avoir la liste des commandes
 
 ## Tous les fichers de cette application Java EE sont commentés et expliqués  
 
-## le dossier inc contients :
-Les ficher statique 
-## le dossier WEB-INF 
-Qui contient tous les jsp 
-## dans le dossier SRC 
-On a un dossier servlets 
-> Qui contiens les servlets associer au ficher .JSP
-On a un dossier beans
-> qui permet de manipuler les donnees entre pas le client 
-On a un dossier forms
-> qui contiens les classe java pour valider et renvoyer les massages d’erreurs l’il y en a.
 
-- le ficher web.xml pour les différentes configurations 
-
-Tous les ficher de cette application Java EE sont commentés et expliqués 
+### Tous les ficher de cette application Java EE sont commentés et expliqués 
 
 
 ## le dossier inc contients :
-Les ficher statique 
+- Les ficher statique 
 ## le dossier WEB-INF 
-Qui contient tous les jsp 
+- Qui contient tous les jsp 
 ## dans le dossier SRC 
-On a un dossier servlets 
-> Qui contiens les servlets associer au ficher .JSP
-On a un dossier beans
-> qui permet de manipuler les donnees entre pas le client 
-On a un dossier forms
-> qui contiens les classe java pour valider et renvoyer les massages d’erreurs l’il y en a.
+1. On a un dossier servlets 
+> - Qui contiens les servlets associer au ficher .JSP
+2. On a un dossier beans
+> - qui permet de manipuler les donnees entre pas le client 
+3. On a un dossier forms
+> - qui contiens les classe java pour valider et renvoyer les massages d’erreurs l’il y en a.
 
 - le ficher web.xml pour les différentes configurations 
 
 Pour exécuter l’application 
--	Installer [tomcate](tomcate) 
+-	Installer tomcate `https://tomcat.apache.org/download-90.cgi` 
 - Et importer dans un dossier les fichiers puis, pense à bien nommer le contexte de l’application  
